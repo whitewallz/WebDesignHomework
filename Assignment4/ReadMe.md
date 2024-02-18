@@ -14,10 +14,10 @@ middle step.
 really doing anything. XHTML is a sort of combination of the two and is much more precise
 
 4. What are the 4 elements your HTML pages need? 
-  1. Document Type
-  2. Root Element
-  3. Head Element
-  4. Body Element
+   -  Document Type
+   -  Root Element
+   -  Head Element
+   -  Body Element
 
 5. What is the index.html page for? Where does it go? 
   The index.html page is a master file for the webage and goes at the top of the directory.
