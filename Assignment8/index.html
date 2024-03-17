@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <!-- Meta data, not shown to site visiters-->
+    <meta charset="UTF-6">
+    <meta name="author" content="Robert McKellar">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Robert McKellar</title>
+    <!-- Style additions to be used in div, class and span-->
+    <style>
+        body {
+            background-color: DarkSeaGreen;
+            text-align: center;
+            font-family: 'Garamond', EB Garamond, monospace;
+        }
+
+        .container {    
+            background-color:DarkOrchid;
+            width: 500;
+            margin: auto;
+            padding: 25px;
+            border: 2pt solid black;
+        }
+
+        .lyrics {
+            background-color: lightskyblue;
+            color: black;
+            font-size: small;
+            font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        }
+    </style>
+</head>
+<!-- all style elements inhereted from the body style assigned above-->
+<body>
+    <!-- This is cover art for the song This is Why We Fight By the Decemberists-->
+    <div id="fan-art" class="container">
+        <h1>This is Why We Fight</h1>
+        <h2>The Decemberists</h2>
+        <img src="images/art.jpg" height="500" width="500" alt="This is Why we Fight Artwork">
+    </div>
+    <div id="photo" class="container">
+        <h1>Audio</h1>
+        <audio preload controls>
+          <!---this is picutres-->
+            <source src="./Assignment8/images/bad.jpg" type="audo/mpeg" />
+            <source src="./Assignment8/images/fall-1.jpg" type="audio/ogg" codec="vorbis" />
+            <source src="./media/thisIsWhy.wav" type="audio/wav">
+            <p> This is the song This is Why We Fight, by the Decemberists</p>
+            <p> Your browser does not support this audio</p>
+        </audio>
+    </div>
+ 
+    </div>
+</body>
+</html>
