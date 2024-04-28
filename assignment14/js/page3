@@ -1,0 +1,12 @@
+<!-- Include the same header and footer as the homepage -->
+
+<main class="container">
+    <h2 class="text-center my-4">Conservation Projects</h2>
+    <p>Explore our ongoing projects aimed at protecting wildlife habitats and promoting biodiversity.</p>
+    <ul>
+        <li>Project 1: Protecting Coral Reefs in the Pacific Ocean</li>
+        <li>Project 2: Restoring Wetlands for Migratory Birds</li>
+        <li>Project 3: Anti-Poaching Efforts in African National Parks</li>
+        <!-- Add more projects as needed -->
+    </ul>
+</main>
