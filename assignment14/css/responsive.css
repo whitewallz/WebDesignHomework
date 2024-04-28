@@ -1,0 +1,14 @@
+/* Responsive CSS */
+/* Add your responsive styles here */
+/* Example: */
+@media screen and (max-width: 768px) {
+    /* Styles for smaller screens */
+    .container {
+        padding: 0 20px;
+    }
+}
+
+@media screen and (max-width: 576px) {
+    /* Styles for extra small screens */
+    /* Example: Hide some elements or adjust font sizes */
+}
