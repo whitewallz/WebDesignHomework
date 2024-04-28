@@ -1,0 +1,12 @@
+<!-- Include the same header and footer as the homepage -->
+
+<main class="container">
+    <h2 class="text-center my-4">Get Involved</h2>
+    <p>Join us in our mission to protect wildlife and conserve their habitats.</p>
+    <ul>
+        <li>Volunteer for Conservation Projects</li>
+        <li>Donate to Wildlife Conservation Organizations</li>
+        <li>Spread Awareness on Social Media</li>
+        <!-- Add more ways to get involved -->
+    </ul>
+</main>
